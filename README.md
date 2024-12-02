@@ -2,7 +2,7 @@ EVA4 Backend
 Descripción de la aplicación
 
 EVA4 Backend es una aplicación web desarrollada en Python utilizando el framework Django. 
-Está diseñada para "gestionar proyectos, o "proveer una API REST para
+Está diseñada para gestionar proyectos, o proveer una API REST para
 El proyecto incluye conexión a base de datos, endpoints API.
 
 La aplicación se despliega de forma pública en Render y permiteadministrar de manera eficiente proyectos y tareas asociadas. 
